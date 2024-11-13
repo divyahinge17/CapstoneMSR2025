@@ -1,0 +1,2 @@
+﻿releaseID,releaseUnixTime,releaseVersion,releaseDate,dependencyCount,dependencyArtIDs
+"""org.hamcrest:hamcrest-all:1.1""",1184785853000,"""1.1""","""2007-07-18T19:10:53Z""",3,"[""org.easymock:easymock"", ""junit:junit"", ""jmock:jmock""]"

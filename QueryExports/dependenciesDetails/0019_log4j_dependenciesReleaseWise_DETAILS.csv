@@ -1,0 +1,4 @@
+﻿releaseID,releaseUnixTime,releaseVersion,releaseDate,dependencyCount,dependencyArtIDs
+"""log4j:log4j:1.2.15""",1188495676000,"""1.2.15""","""2007-08-30T17:41:16Z""",6,"[""oro:oro"", ""junit:junit"", ""com.sun.jmx:jmxri"", ""javax.mail:mail"", ""javax.jms:jms"", ""com.sun.jdmk:jmxtools""]"
+"""log4j:log4j:1.2.16""",1270009634000,"""1.2.16""","""2010-03-31T04:27:14Z""",4,"[""org.apache.geronimo.specs:geronimo-jms_1.1_spec"", ""javax.mail:mail"", ""junit:junit"", ""oro:oro""]"
+"""log4j:log4j:1.2.17""",1338025419000,"""1.2.17""","""2012-05-26T09:43:39Z""",5,"[""junit:junit"", ""org.apache.openejb:javaee-api"", ""oro:oro"", ""org.apache.geronimo.specs:geronimo-jms_1.1_spec"", ""javax.mail:mail""]"
